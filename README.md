@@ -18,14 +18,12 @@ JSP: Dynamically generate HTML content based on data received from the servlets.
 <h3>How It Works</h3>
 <h5>
 User Interface:<br>
-The user enters a city name into a search input field and submits the form.<br>
-The form sends a POST request to a Java servlet (MyServlet).<br>
-
+  The user enters a city name into a search input field and submits the form.<br>
+  The form sends a POST request to a Java servlet (MyServlet).<br>
 Servlet Processing:<br>
-The servlet retrieves the city name from the request.<br>
-It makes a request to the OpenWeather API to get the weather data for the specified city.<br>
-The servlet processes the API response and forwards the data to a JSP page.<br>
-
+  The servlet retrieves the city name from the request.<br>
+  It makes a request to the OpenWeather API to get the weather data for the specified city.<br>
+  The servlet processes the API response and forwards the data to a JSP page.<br>
 JSP Rendering:<br>
-The JSP page dynamically generates the HTML to display the weather information based on the data provided by the servlet.<br>
+  The JSP page dynamically generates the HTML to display the weather information based on the data provided by the servlet.<br>
 </h5>
