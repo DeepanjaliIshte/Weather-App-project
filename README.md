@@ -5,7 +5,7 @@ Creating a weather app using JSP (JavaServer Pages), Java Servlets, HTML, CSS, a
 
 <h3>Components </h3>
 <h6>
-1] Front-End:-
+1] Front-End:-<br>
 HTML: Structure of the web pages.<br>
 CSS: Styling for the user interface.<br>
 JavaScript: Handling client-side logic and interactions.<br>
