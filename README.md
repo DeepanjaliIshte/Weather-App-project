@@ -9,6 +9,7 @@ Front-End:-
 HTML: Structure of the web pages.<br>
 CSS: Styling for the user interface.<br>
 JavaScript: Handling client-side logic and interactions.<br>
+  
 Back-End:<br>
 Java Servlets: Handle HTTP requests and responses, interact with the OpenWeather API, and forward data to JSP.<br>
 JSP: Dynamically generate HTML content based on data received from the servlets.<br> 
