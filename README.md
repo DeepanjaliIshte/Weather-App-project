@@ -5,11 +5,11 @@ Creating a weather app using JSP (JavaServer Pages), Java Servlets, HTML, CSS, a
 
 <h3>Components </h3>
 <h5>
-<h4>Front-End:</h4>
+Front-End:-
 HTML: Structure of the web pages.<br>
 CSS: Styling for the user interface.<br>
 JavaScript: Handling client-side logic and interactions.<br>
-<h4>Back-End:</h4><br>
+Back-End:<br>
 Java Servlets: Handle HTTP requests and responses, interact with the OpenWeather API, and forward data to JSP.<br>
 JSP: Dynamically generate HTML content based on data received from the servlets.<br> 
 </h5>
