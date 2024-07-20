@@ -1,7 +1,7 @@
 # Weather-app-project
 
-<h4> This weather app project demonstrates how to build a dynamic web application using JSP, Servlets, HTML, CSS, and JavaScript. It involves capturing user input, processing data on the server, and rendering dynamic content on the client side. This project helps in understanding the integration of front-end and back-end technologies in a real-world application.</h4><br>
-<h4>Creating a weather app using JSP (JavaServer Pages), Java Servlets, HTML, CSS, and JavaScript involves developing a web application that allows users to get weather information for a specific city. </h4>
+<h4> This weather app project demonstrates how to build a dynamic web application using JSP, Servlets, HTML, CSS, and JavaScript. It involves capturing user input, processing data on the server, and rendering dynamic content on the client side. This project helps in understanding the integration of front-end and back-end technologies in a real-world application.<br>
+Creating a weather app using JSP (JavaServer Pages), Java Servlets, HTML, CSS, and JavaScript involves developing a web application that allows users to get weather information for a specific city. </h4>
 
 <h3>Components </h3>
 <h5>
