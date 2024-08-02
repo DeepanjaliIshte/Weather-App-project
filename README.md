@@ -29,6 +29,7 @@ JSP: Dynamically generate HTML content based on data received from the servlets.
 </h6>
 
 
+https://github.com/user-attachments/assets/40b33eea-fd0b-47e6-9035-c318c5e5a473
 
-https://github.com/user-attachments/assets/c28e7dbc-83a0-4485-bf7c-a26cc92985a0
+
 
