@@ -28,4 +28,7 @@ JSP: Dynamically generate HTML content based on data received from the servlets.
   The JSP page dynamically generates the HTML to display the weather information based on the data provided by the servlet.<br>
 </h6>
 
-http://localhost:8082/MyWeatherApp/ 
+
+
+https://github.com/user-attachments/assets/c28e7dbc-83a0-4485-bf7c-a26cc92985a0
+
